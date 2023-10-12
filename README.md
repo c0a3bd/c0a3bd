@@ -1,4 +1,4 @@
-[![@c0a3bd's Holopin board](https://holopin.io/api/user/board?user=c0a3bd)](https://www.holopin.io/@c0a3bd)
+[![An image of @c0a3bd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c0a3bd)](https://holopin.io/@c0a3bd)[![@c0a3bd's Holopin board](https://holopin.io/api/user/board?user=c0a3bd)](https://www.holopin.io/@c0a3bd)
 
 <!--
 **c0a3bd/c0a3bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
